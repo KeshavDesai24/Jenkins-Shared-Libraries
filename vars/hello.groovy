@@ -1,3 +1,3 @@
 def call(){
-  echo "Hello Shared Lib func run successfully"
+  echo "Hello Guys Welcome to jenkins"
 }
